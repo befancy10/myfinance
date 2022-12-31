@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myfinance/static/css/main.5da60b84.css",
+    "main.js": "/myfinance/static/js/main.1a612fda.js",
+    "static/media/single.png": "/myfinance/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/myfinance/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/mobile.png": "/myfinance/static/media/mobile.454a8f4fe220f809d052.png",
+    "static/media/triple.png": "/myfinance/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/myfinance/index.html",
+    "main.5da60b84.css.map": "/myfinance/static/css/main.5da60b84.css.map",
+    "main.1a612fda.js.map": "/myfinance/static/js/main.1a612fda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da60b84.css",
+    "static/js/main.1a612fda.js"
+  ]
+}
